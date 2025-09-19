@@ -1,0 +1,22 @@
+{
+  "name": "SvgIcon",
+  "label": "SVG Icon",
+  "platform": "handler",
+  "version": "1.0.0",
+  "author": "Awat Safari",
+  "description": "A widget to display a customizable SVG icon from its code.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasSetting": true,
+    "hasMainStage": false,
+    "inPanel": false
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 50,
+    "height": 50
+  }
+}
